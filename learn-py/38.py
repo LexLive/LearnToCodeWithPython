@@ -16,7 +16,7 @@ p("Hello")
 p("Goodbye")
 p("OK")
 
-#p() if () is empty will show TypeError
+#p() if p() is empty will show TypeError
 
 def add(a, b):
     print("The sum of", a, "and", b, "is", a + b)
@@ -26,4 +26,4 @@ add(-4, 7)
 
 #add()
 #add(1)
-#add(3, 5, 7) #TypeError
+#add(3, 5, 7) #TypeError will show if put value more than you set.
