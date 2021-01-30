@@ -5,7 +5,7 @@ print(10-5)
 print(5 * 3)
 
 print("Ba" + "con")
-print("lolo" * 16)
+print("lolo" * 16)# print lolo 16 times
 print(10 + 3.8)
 print(5 ** 3)
 print(4 ** 4)
