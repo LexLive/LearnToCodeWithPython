@@ -4,8 +4,9 @@ def family(n1, n2, n3):
 family("Koonmei", "Amelia", "AAAA")
 family("P'june", "Lex", "BBBB")
 
+print("/" * 50)
 
-
+#********#********#********#********#********#********#********
 def math(count1, count2):
     result = count1 + count2
     
@@ -13,6 +14,5 @@ def math(count1, count2):
     
 count1 = 10
 count2 = 10
-
 result = math(count1, count2)
 print("My bank statement: ", result)
