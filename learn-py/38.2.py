@@ -6,7 +6,7 @@ p("Hello")
 p("Goodbye")
 p("OK")
 
-
+print("/" * 50)
 
 def add(a, b):
     print("The sum of", a, "and", b, "is", a + b)
