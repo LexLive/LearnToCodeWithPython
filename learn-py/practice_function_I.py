@@ -9,6 +9,8 @@ def none():
     print("*" * 20)
 none()
 
+print("/" * 50)
+
 #programiz youtube
 def add_number(n1, n2):
     result = n1 + n2
