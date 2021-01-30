@@ -6,12 +6,8 @@
 #And the actual value we provide as the input when the function is invoked is called the argument.
 #You can think of Def almost like a variable assignment and output text as the name of a function.
 #The function is an object and we are assigning it a name here called output text.
-#
 #the parameter name is completely up to us the developer.
 #This is an input that we're going to provide to p and whatever we provide inside the parentheses will be available within the body or the block that we define the rules of the function and or the steps
-#
-
-#
 # will be available within the body or the block that we define the rules of the function and or the steps
 
 def p(text):
