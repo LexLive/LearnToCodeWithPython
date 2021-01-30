@@ -10,7 +10,7 @@
 #This is an input that we're going to provide to p and whatever we provide inside the parentheses will be available within the body or the block that we define the rules of the function and or the steps
 # will be available within the body or the block that we define the rules of the function and or the steps
 
-def p(text):
+def p(text): #p(text) the insdie() is varaible name for function
     print(text)
 p("Hello")
 p("Goodbye")
