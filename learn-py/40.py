@@ -1,6 +1,5 @@
 def add(a, b):
     return a + b #output #dont
-    print("This is nonesense") #not show in Terminal
 
 result = add(3, 5)
 print(result)
