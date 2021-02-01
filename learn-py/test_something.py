@@ -1,30 +1,13 @@
-def easy_money():
-    return 100
-    
-easy_money()
+def add(a= 0, b = 0):
+    return a + b
+
+print(add(7, 8))
+print(add(10))
+print(add())
 
 
-def best_food_ever():
-    print("Sushi")
-    
-best_food_ever()
+def string_adder(c, d):
+    return c + d
 
-def convert_to_currency(a):
-    print(f"${a}")
-    
-convert_to_currency(20)
-
-
-
-
-
-
-    
-    
-
-
-
-
-
-
-    
+print(string_adder("Hello", " World"))
+print(string_adder())
