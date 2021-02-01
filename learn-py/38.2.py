@@ -8,8 +8,6 @@ def output_text():
 output_text()
 output_text()
 output_text()
-output_text()
-
 
 def p(text): 
     print(text)
